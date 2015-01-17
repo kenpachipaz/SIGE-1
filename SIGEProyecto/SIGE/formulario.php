@@ -47,51 +47,51 @@
                     <table>
                         <tr>
                             <td>CLAVE ELECTORAL:</td>
-                            <td><input type="text" data-type="input-textbox" id="clave" name="clave" size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="clave" name="clave" size="18" required/></td>
                         </tr>
                         <tr>
                             <td>APELLIDO PATERNO:</td>
-                            <td><input type="text" data-type="input-textbox" id="aPaterno" name="ap" size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="aPaterno" name="ap" size="18" required/></td>
                         </tr>
                         <tr>
                             <td>APELLIDO MATERNO:</td>
-                            <td><input type="text" data-type="input-textbox" id="aMaterno" name="am" size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="aMaterno" name="am" size="18" required/></td>
                         </tr>
                         <tr>
                             <td>NOMBRES:</td>
-                            <td><input type="text" data-type="input-textbox" id="nombre" name="nombre" size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="nombre" name="nombre" size="18" required/></td>
                         </tr>
                         <tr>
                             <td>TELEFONO:</td>
-                            <td><input type="text" data-type="input-textbox" id="tel" name="tel" size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="tel" name="tel" size="18" required/></td>
                         </tr>
                         <tr>
                             <td>EMAIL:</td>
-                            <td><input type="text" data-type="input-textbox" id="email" name="email" size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="email" name="email" size="18" required/></td>
                         </tr>
                         <tr>
                             <td>CODIGO POSTAL:</td>
-                            <td><input type="text" data-type="input-textbox" id="cp" name="cp" size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="cp" name="cp" size="18" required/></td>
                         </tr>
                         <tr>
                             <td>CALLE:</td>
-                            <td><input type="text" data-type="input-textbox" id="calle" name="calle"  size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="calle" name="calle"  size="18" required/></td>
                         </tr>
                         <tr>
                             <td>COLONIA:</td>
-                            <td><input type="text" data-type="input-textbox" id="colonia" name="colonia" size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="colonia" name="colonia" size="18" required/></td>
                         </tr>
                         <tr>
                             <td>MUNICIPIO:</td>
-                            <td><input type="text" data-type="input-textbox" id="municipio" name="municipio" size="18"/>
+                            <td><input type="text" data-type="input-textbox" id="municipio" name="municipio" size="18" required/>
                         </tr>
                         <tr>
                             <td>SECCION ELECTORAL:</td>
-                            <td><input type="text" data-type="input-textbox" id="sElectoral" name="sElectoral" size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="sElectoral" name="sElectoral" size="18" required/></td>
                         </tr>
                         <tr>
                             <td>CARGO:</td>
-                            <td><input type="text" data-type="input-textbox" id="cargo" name="cargo" size="18"/></td>
+                            <td><input type="text" data-type="input-textbox" id="cargo" name="cargo" size="18" required/></td>
                         </tr>
                         <tr>
                             <td>OBSERVACIONES:</td>
